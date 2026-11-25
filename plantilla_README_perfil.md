@@ -2,11 +2,11 @@
 
 **[Tu titular. Ejemplo: Analista de datos | Convierto datos de salud en decisiones de servicio]**
 
-- 📍 [Ciudad, país]
-- 💼 [Tu experiencia o industria actual, en una línea]
+- 📍 Quito, Ecuador
+- 💼 Analista de Riesgos-Corporación Prelafit
 - 🎯 [Qué tipo de problemas quieres resolver con datos]
-- 🛠️ Excel · Power BI · SQL · Python · IA para análisis
-- 📫 [Tu LinkedIn o correo profesional]
+- 🛠️ Excel · Power BI · SAP · Mobilvendor · Route to Market
+- 📫 https://www.linkedin.com/in/samantha-manguia-063b3a185/
 
 ### Proyectos
 
