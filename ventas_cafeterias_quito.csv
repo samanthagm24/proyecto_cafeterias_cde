@@ -1,0 +1,501 @@
+﻿id_venta,fecha,dia_semana,franja_horaria,hora,sucursal,canal,producto,categoria,cantidad,precio_unitario,total_usd,metodo_pago,tipo_cliente,satisfaccion,clima,temperatura_c
+V0001,2026-08-03,Lunes,Mañana,8,La Carolina,En local,Jugo natural,Bebida fría,2,2.75,5.5,Tarjeta,Nuevo,5,Nublado,14.2
+V0002,2026-08-04,Martes,Tarde,14,Cumbayá,Delivery,Jugo natural,Bebida fría,1,2.75,2.75,Efectivo,Frecuente,4,Nublado,16.5
+V0003,2026-08-04,Martes,Noche,18,Centro Histórico,En local,Latte,Café caliente,1,3.5,3.5,Tarjeta,Frecuente,5,Nublado,16.5
+V0004,2026-08-04,Martes,Noche,19,Cumbayá,Para llevar,Americano,Café caliente,1,2.25,2.25,Efectivo,Frecuente,2,Nublado,16.5
+V0005,2026-08-04,Martes,Noche,20,La Floresta,En local,Croissant,Panadería,1,2.25,2.25,Transferencia,Nuevo,5,Nublado,16.5
+V0006,2026-08-05,Miércoles,Mañana,8,Centro Histórico,En local,Té helado,Bebida fría,2,2.5,5.0,Efectivo,Frecuente,5,Soleado,21.9
+V0007,2026-08-05,Miércoles,Mañana,9,La Carolina,Delivery,Capuchino,Café caliente,3,3.25,9.75,Tarjeta,Frecuente,4,Soleado,21.9
+V0008,2026-08-05,Miércoles,Mañana,9,La Floresta,En local,Humita,Panadería,2,2.0,4.0,Efectivo,Nuevo,4,Soleado,21.9
+V0009,2026-08-05,Miércoles,Mañana,11,Cumbayá,Para llevar,Croissant,Panadería,1,2.25,2.25,Transferencia,Nuevo,5,Soleado,21.9
+V0010,2026-08-05,Miércoles,Tarde,12,La Floresta,En local,Pan de yuca,Panadería,1,1.25,1.25,Efectivo,Frecuente,5,Soleado,21.9
+V0011,2026-08-05,Miércoles,Tarde,15,La Floresta,En local,Torta de chocolate,Postre,1,3.75,3.75,Tarjeta,Frecuente,4,Soleado,21.9
+V0012,2026-08-05,Miércoles,Tarde,17,Centro Histórico,Para llevar,Frappé de café,Bebida fría,2,4.25,8.5,Efectivo,Frecuente,4,Soleado,21.9
+V0013,2026-08-06,Jueves,Mañana,8,Cumbayá,Para llevar,Americano,Café caliente,1,2.25,2.25,Tarjeta,Frecuente,5,Soleado,19.9
+V0014,2026-08-06,Jueves,Mañana,10,La Carolina,En local,Frappé de café,Bebida fría,1,4.25,4.25,Tarjeta,Frecuente,2,Soleado,19.9
+V0015,2026-08-06,Jueves,Tarde,12,Cumbayá,Para llevar,Croissant,Panadería,1,2.25,2.25,Tarjeta,Nuevo,3,Soleado,19.9
+V0016,2026-08-06,Jueves,Tarde,13,La Carolina,Delivery,Americano,Café caliente,1,2.25,2.25,Efectivo,Frecuente,5,Soleado,19.9
+V0017,2026-08-06,Jueves,Tarde,13,La Carolina,En local,Latte,Café caliente,1,3.5,3.5,Transferencia,Nuevo,4,Soleado,19.9
+V0018,2026-08-06,Jueves,Tarde,13,La Carolina,En local,Té helado,Bebida fría,2,2.5,5.0,Tarjeta,Nuevo,4,Soleado,19.9
+V0019,2026-08-06,Jueves,Tarde,15,Centro Histórico,Para llevar,Humita,Panadería,3,2.0,6.0,Transferencia,Nuevo,5,Soleado,19.9
+V0020,2026-08-06,Jueves,Tarde,15,La Carolina,En local,Cheesecake de mora,Postre,1,4.0,4.0,Efectivo,Frecuente,4,Soleado,19.9
+V0021,2026-08-06,Jueves,Tarde,16,Centro Histórico,En local,Té helado,Bebida fría,3,2.5,7.5,Transferencia,Nuevo,5,Soleado,19.9
+V0022,2026-08-07,Viernes,Mañana,8,La Carolina,Para llevar,Capuchino,Café caliente,1,3.25,3.25,Tarjeta,Nuevo,5,Nublado,16.8
+V0023,2026-08-07,Viernes,Mañana,9,La Carolina,Para llevar,Cheesecake de mora,Postre,1,4.0,4.0,Tarjeta,Frecuente,5,Nublado,16.8
+V0024,2026-08-07,Viernes,Mañana,9,La Carolina,En local,Empanada de verde,Panadería,2,1.75,3.5,Efectivo,Nuevo,5,Nublado,16.8
+V0025,2026-08-07,Viernes,Mañana,11,La Carolina,En local,Pan de yuca,Panadería,1,1.25,1.25,Efectivo,Frecuente,3,Nublado,16.8
+V0026,2026-08-07,Viernes,Tarde,17,La Floresta,En local,Jugo natural,Bebida fría,4,2.75,11.0,Efectivo,Frecuente,4,Nublado,16.8
+V0027,2026-08-07,Viernes,Noche,19,Centro Histórico,Para llevar,Latte,Café caliente,4,3.5,14.0,Tarjeta,Frecuente,4,Nublado,16.8
+V0028,2026-08-08,Sábado,Mañana,7,Cumbayá,Para llevar,Empanada de verde,Panadería,1,1.75,1.75,Tarjeta,Frecuente,3,Soleado,20.7
+V0029,2026-08-08,Sábado,Mañana,8,La Floresta,En local,Cheesecake de mora,Postre,3,4.0,12.0,Transferencia,Nuevo,5,Soleado,20.7
+V0030,2026-08-08,Sábado,Mañana,10,La Carolina,Para llevar,Frappé de café,Bebida fría,2,4.25,8.5,Tarjeta,Frecuente,4,Soleado,20.7
+V0031,2026-08-08,Sábado,Mañana,10,Cumbayá,Para llevar,Croissant,Panadería,3,2.25,6.75,Tarjeta,Frecuente,4,Soleado,20.7
+V0032,2026-08-08,Sábado,Mañana,10,Cumbayá,En local,Latte,Café caliente,3,3.5,10.5,Transferencia,Frecuente,4,Soleado,20.7
+V0033,2026-08-08,Sábado,Mañana,11,Cumbayá,En local,Frappé de café,Bebida fría,4,4.25,17.0,Transferencia,Nuevo,5,Soleado,20.7
+V0034,2026-08-08,Sábado,Tarde,15,La Carolina,Para llevar,Torta de chocolate,Postre,1,3.75,3.75,Tarjeta,Nuevo,3,Soleado,20.7
+V0035,2026-08-09,Domingo,Mañana,8,La Carolina,En local,Quesadilla quiteña,Postre,2,1.5,3.0,Efectivo,Frecuente,4,Nublado,15.9
+V0036,2026-08-09,Domingo,Mañana,8,La Floresta,En local,Capuchino,Café caliente,3,3.25,9.75,Transferencia,Frecuente,5,Nublado,15.9
+V0037,2026-08-09,Domingo,Mañana,8,La Floresta,En local,Capuchino,Café caliente,2,3.25,6.5,Tarjeta,Frecuente,4,Nublado,15.9
+V0038,2026-08-09,Domingo,Tarde,16,La Floresta,Para llevar,Croissant,Panadería,1,2.25,2.25,Efectivo,Frecuente,5,Nublado,15.9
+V0039,2026-08-10,Lunes,Mañana,7,Cumbayá,Para llevar,Torta de chocolate,Postre,1,3.75,3.75,Tarjeta,Frecuente,5,Nublado,15.2
+V0040,2026-08-10,Lunes,Mañana,8,La Carolina,Delivery,Torta de chocolate,Postre,1,3.75,3.75,Tarjeta,Frecuente,3,Nublado,15.2
+V0041,2026-08-10,Lunes,Mañana,9,La Floresta,En local,Pan de yuca,Panadería,1,1.25,1.25,Transferencia,Nuevo,4,Nublado,15.2
+V0042,2026-08-10,Lunes,Mañana,11,La Floresta,En local,Cheesecake de mora,Postre,1,4.0,4.0,Efectivo,Frecuente,5,Nublado,15.2
+V0043,2026-08-10,Lunes,Tarde,14,La Carolina,En local,Frappé de café,Bebida fría,2,4.25,8.5,Tarjeta,Frecuente,4,Nublado,15.2
+V0044,2026-08-10,Lunes,Tarde,15,La Carolina,Para llevar,Quesadilla quiteña,Postre,2,1.5,3.0,Efectivo,Nuevo,3,Nublado,15.2
+V0045,2026-08-11,Martes,Mañana,9,La Carolina,En local,Pan de yuca,Panadería,4,1.25,5.0,Tarjeta,Frecuente,4,Nublado,15.7
+V0046,2026-08-11,Martes,Mañana,11,La Carolina,En local,Torta de chocolate,Postre,1,3.75,3.75,Tarjeta,Nuevo,4,Nublado,15.7
+V0047,2026-08-11,Martes,Mañana,11,La Carolina,En local,Espresso,Café caliente,2,1.75,3.5,Tarjeta,Nuevo,4,Nublado,15.7
+V0048,2026-08-11,Martes,Tarde,13,Cumbayá,Para llevar,Jugo natural,Bebida fría,1,2.75,2.75,Efectivo,Nuevo,4,Nublado,15.7
+V0049,2026-08-11,Martes,Tarde,16,La Carolina,En local,Chocolate caliente,Café caliente,1,3.0,3.0,Efectivo,Frecuente,4,Nublado,15.7
+V0050,2026-08-11,Martes,Noche,18,Centro Histórico,Para llevar,Americano,Café caliente,1,2.25,2.25,Efectivo,Nuevo,5,Nublado,15.7
+V0051,2026-08-11,Martes,Noche,19,Cumbayá,En local,Torta de chocolate,Postre,2,3.75,7.5,Tarjeta,Frecuente,3,Nublado,15.7
+V0052,2026-08-12,Miércoles,Mañana,9,La Carolina,Para llevar,Espresso,Café caliente,1,1.75,1.75,Tarjeta,Frecuente,5,Soleado,22.6
+V0053,2026-08-12,Miércoles,Tarde,13,Centro Histórico,Para llevar,Torta de chocolate,Postre,2,3.75,7.5,Efectivo,Frecuente,4,Soleado,22.6
+V0054,2026-08-12,Miércoles,Noche,19,Cumbayá,En local,Té helado,Bebida fría,1,2.5,2.5,Tarjeta,Frecuente,3,Soleado,22.6
+V0055,2026-08-13,Jueves,Mañana,8,Centro Histórico,En local,Quesadilla quiteña,Postre,3,1.5,4.5,Efectivo,Nuevo,4,Nublado,15.8
+V0056,2026-08-13,Jueves,Mañana,11,La Carolina,En local,Espresso,Café caliente,2,1.75,3.5,Tarjeta,Nuevo,3,Nublado,15.8
+V0057,2026-08-13,Jueves,Mañana,11,Centro Histórico,Para llevar,Capuchino,Café caliente,3,3.25,9.75,Tarjeta,Nuevo,3,Nublado,15.8
+V0058,2026-08-13,Jueves,Noche,18,Cumbayá,En local,Jugo natural,Bebida fría,1,2.75,2.75,Efectivo,Frecuente,5,Nublado,15.8
+V0059,2026-08-13,Jueves,Noche,20,La Floresta,Para llevar,Americano,Café caliente,1,2.25,2.25,Tarjeta,Frecuente,4,Nublado,15.8
+V0060,2026-08-14,Viernes,Mañana,7,La Carolina,En local,Latte,Café caliente,1,3.5,3.5,Efectivo,Frecuente,5,Soleado,19.5
+V0061,2026-08-14,Viernes,Mañana,7,Cumbayá,Para llevar,Croissant,Panadería,1,2.25,2.25,Tarjeta,Frecuente,4,Soleado,19.5
+V0062,2026-08-14,Viernes,Mañana,8,Cumbayá,En local,Latte,Café caliente,1,3.5,3.5,Tarjeta,Frecuente,5,Soleado,19.5
+V0063,2026-08-14,Viernes,Tarde,14,La Carolina,Para llevar,Jugo natural,Bebida fría,1,2.75,2.75,Tarjeta,Nuevo,3,Soleado,19.5
+V0064,2026-08-14,Viernes,Tarde,14,Centro Histórico,Para llevar,Chocolate caliente,Café caliente,2,3.0,6.0,Tarjeta,Nuevo,4,Soleado,19.5
+V0065,2026-08-14,Viernes,Tarde,16,Centro Histórico,En local,Croissant,Panadería,1,2.25,2.25,Tarjeta,Nuevo,5,Soleado,19.5
+V0066,2026-08-14,Viernes,Noche,20,La Carolina,Para llevar,Humita,Panadería,2,2.0,4.0,Efectivo,Nuevo,5,Soleado,19.5
+V0067,2026-08-15,Sábado,Mañana,7,Cumbayá,En local,Té helado,Bebida fría,1,2.5,2.5,Transferencia,Frecuente,3,Soleado,22.5
+V0068,2026-08-15,Sábado,Mañana,7,Centro Histórico,Para llevar,Jugo natural,Bebida fría,3,2.75,8.25,Tarjeta,Frecuente,3,Soleado,22.5
+V0069,2026-08-15,Sábado,Mañana,10,Cumbayá,En local,Empanada de verde,Panadería,2,1.75,3.5,Tarjeta,Nuevo,4,Soleado,22.5
+V0070,2026-08-15,Sábado,Mañana,10,Cumbayá,Para llevar,Espresso,Café caliente,1,1.75,1.75,Efectivo,Nuevo,1,Soleado,22.5
+V0071,2026-08-15,Sábado,Tarde,12,Cumbayá,En local,Capuchino,Café caliente,3,3.25,9.75,Tarjeta,Nuevo,3,Soleado,22.5
+V0072,2026-08-15,Sábado,Tarde,15,Cumbayá,En local,Pan de yuca,Panadería,1,1.25,1.25,Efectivo,Frecuente,4,Soleado,22.5
+V0073,2026-08-15,Sábado,Tarde,15,La Carolina,Para llevar,Pan de yuca,Panadería,1,1.25,1.25,Efectivo,Nuevo,3,Soleado,22.5
+V0074,2026-08-15,Sábado,Tarde,15,Cumbayá,En local,Té helado,Bebida fría,2,2.5,5.0,Tarjeta,Frecuente,4,Soleado,22.5
+V0075,2026-08-15,Sábado,Tarde,17,Cumbayá,Para llevar,Latte,Café caliente,1,3.5,3.5,Transferencia,Nuevo,4,Soleado,22.5
+V0076,2026-08-15,Sábado,Tarde,17,La Floresta,En local,Frappé de café,Bebida fría,1,4.25,4.25,Efectivo,Nuevo,5,Soleado,22.5
+V0077,2026-08-16,Domingo,Mañana,9,La Carolina,Delivery,Americano,Café caliente,1,2.25,2.25,Tarjeta,Frecuente,4,Soleado,21.0
+V0078,2026-08-16,Domingo,Tarde,14,La Floresta,Delivery,Capuchino,Café caliente,3,3.25,9.75,Efectivo,Frecuente,4,Soleado,21.0
+V0079,2026-08-17,Lunes,Mañana,7,La Carolina,Para llevar,Croissant,Panadería,1,2.25,2.25,Tarjeta,Nuevo,5,Soleado,20.0
+V0080,2026-08-17,Lunes,Mañana,8,La Floresta,Para llevar,Cheesecake de mora,Postre,1,4.0,4.0,Transferencia,Frecuente,4,Soleado,20.0
+V0081,2026-08-17,Lunes,Mañana,8,La Carolina,Para llevar,Americano,Café caliente,1,2.25,2.25,Efectivo,Nuevo,2,Soleado,20.0
+V0082,2026-08-17,Lunes,Mañana,9,Centro Histórico,Para llevar,Chocolate caliente,Café caliente,2,3.0,6.0,Efectivo,Nuevo,5,Soleado,20.0
+V0083,2026-08-17,Lunes,Mañana,9,La Carolina,Delivery,Cheesecake de mora,Postre,1,4.0,4.0,Efectivo,Nuevo,4,Soleado,20.0
+V0084,2026-08-17,Lunes,Mañana,9,Cumbayá,Corporativo,Capuchino,Café caliente,55,3.25,178.75,Transferencia,Frecuente,5,Soleado,20.0
+V0085,2026-08-17,Lunes,Mañana,11,Centro Histórico,En local,Humita,Panadería,1,2.0,2.0,Efectivo,Nuevo,4,Soleado,20.0
+V0086,2026-08-17,Lunes,Tarde,12,La Carolina,En local,Espresso,Café caliente,2,1.75,3.5,Efectivo,Nuevo,5,Soleado,20.0
+V0087,2026-08-17,Lunes,Tarde,17,La Floresta,Para llevar,Frappé de café,Bebida fría,1,4.25,4.25,Tarjeta,Nuevo,4,Soleado,20.0
+V0088,2026-08-17,Lunes,Noche,20,La Carolina,Para llevar,Frappé de café,Bebida fría,1,4.25,4.25,Transferencia,Frecuente,4,Soleado,20.0
+V0089,2026-08-18,Martes,Mañana,11,Cumbayá,En local,Frappé de café,Bebida fría,1,4.25,4.25,Efectivo,Nuevo,4,Soleado,18.4
+V0090,2026-08-18,Martes,Tarde,13,Centro Histórico,Para llevar,Americano,Café caliente,1,2.25,2.25,Efectivo,Frecuente,4,Soleado,18.4
+V0091,2026-08-18,Martes,Tarde,17,La Carolina,Para llevar,Torta de chocolate,Postre,2,3.75,7.5,Tarjeta,Frecuente,4,Soleado,18.4
+V0092,2026-08-19,Miércoles,Mañana,8,La Carolina,Delivery,Torta de chocolate,Postre,1,3.75,3.75,Efectivo,Frecuente,5,Nublado,16.1
+V0093,2026-08-19,Miércoles,Mañana,9,La Carolina,Delivery,Chocolate caliente,Café caliente,1,3.0,3.0,Efectivo,Frecuente,4,Nublado,16.1
+V0094,2026-08-19,Miércoles,Noche,18,Cumbayá,En local,Espresso,Café caliente,2,1.75,3.5,Tarjeta,Frecuente,5,Nublado,16.1
+V0095,2026-08-19,Miércoles,Noche,19,La Floresta,En local,Pan de yuca,Panadería,2,1.25,2.5,Tarjeta,Frecuente,3,Nublado,16.1
+V0096,2026-08-19,Miércoles,Noche,19,Centro Histórico,En local,Latte,Café caliente,1,3.5,3.5,Efectivo,Frecuente,4,Nublado,16.1
+V0097,2026-08-19,Miércoles,Noche,20,La Carolina,En local,Espresso,Café caliente,3,1.75,5.25,Efectivo,Frecuente,4,Nublado,16.1
+V0098,2026-08-20,Jueves,Mañana,7,La Carolina,En local,Torta de chocolate,Postre,1,3.75,3.75,Transferencia,Nuevo,4,Soleado,19.7
+V0099,2026-08-20,Jueves,Mañana,8,La Floresta,Para llevar,Té helado,Bebida fría,1,2.5,2.5,Efectivo,Nuevo,4,Soleado,19.7
+V0100,2026-08-20,Jueves,Mañana,8,La Floresta,Delivery,Empanada de verde,Panadería,1,1.75,1.75,Efectivo,Nuevo,3,Soleado,19.7
+V0101,2026-08-20,Jueves,Mañana,10,Centro Histórico,Para llevar,Frappé de café,Bebida fría,1,4.25,4.25,Tarjeta,Frecuente,4,Soleado,19.7
+V0102,2026-08-20,Jueves,Tarde,14,La Floresta,Para llevar,Té helado,Bebida fría,2,2.5,5.0,Efectivo,Frecuente,4,Soleado,19.7
+V0103,2026-08-20,Jueves,Tarde,17,La Carolina,En local,Empanada de verde,Panadería,1,1.75,1.75,Efectivo,Frecuente,4,Soleado,19.7
+V0104,2026-08-21,Viernes,Mañana,10,La Floresta,En local,Cheesecake de mora,Postre,1,4.0,4.0,Tarjeta,Nuevo,4,Soleado,21.8
+V0105,2026-08-21,Viernes,Mañana,11,La Carolina,En local,Latte,Café caliente,2,3.5,7.0,Transferencia,Frecuente,5,Soleado,21.8
+V0106,2026-08-21,Viernes,Tarde,12,La Carolina,Delivery,Quesadilla quiteña,Postre,1,1.5,1.5,Tarjeta,Frecuente,5,Soleado,21.8
+V0107,2026-08-21,Viernes,Tarde,15,La Carolina,Delivery,Chocolate caliente,Café caliente,2,3.0,6.0,Tarjeta,Frecuente,5,Soleado,21.8
+V0108,2026-08-21,Viernes,Tarde,17,Centro Histórico,En local,Humita,Panadería,1,2.0,2.0,Tarjeta,Frecuente,5,Soleado,21.8
+V0109,2026-08-22,Sábado,Mañana,8,La Carolina,Delivery,Té helado,Bebida fría,1,2.5,2.5,Tarjeta,Nuevo,3,Soleado,20.7
+V0110,2026-08-22,Sábado,Mañana,9,Centro Histórico,En local,Frappé de café,Bebida fría,3,4.25,12.75,Tarjeta,Nuevo,5,Soleado,20.7
+V0111,2026-08-22,Sábado,Mañana,9,Centro Histórico,Para llevar,Chocolate caliente,Café caliente,1,3.0,3.0,Transferencia,Frecuente,2,Soleado,20.7
+V0112,2026-08-22,Sábado,Mañana,10,Cumbayá,En local,Jugo natural,Bebida fría,1,2.75,2.75,Tarjeta,Nuevo,4,Soleado,20.7
+V0113,2026-08-22,Sábado,Mañana,10,La Floresta,En local,Latte,Café caliente,4,3.5,14.0,Tarjeta,Frecuente,5,Soleado,20.7
+V0114,2026-08-22,Sábado,Tarde,15,Cumbayá,Delivery,Espresso,Café caliente,1,1.75,1.75,Tarjeta,Frecuente,4,Soleado,20.7
+V0115,2026-08-22,Sábado,Tarde,15,Cumbayá,En local,Croissant,Panadería,2,2.25,4.5,Efectivo,Frecuente,5,Soleado,20.7
+V0116,2026-08-22,Sábado,Tarde,15,La Floresta,En local,Frappé de café,Bebida fría,2,4.25,8.5,Transferencia,Nuevo,5,Soleado,20.7
+V0117,2026-08-22,Sábado,Tarde,17,La Floresta,Para llevar,Pan de yuca,Panadería,2,1.25,2.5,Efectivo,Frecuente,3,Soleado,20.7
+V0118,2026-08-22,Sábado,Noche,18,La Floresta,En local,Té helado,Bebida fría,1,2.5,2.5,Tarjeta,Frecuente,4,Soleado,20.7
+V0119,2026-08-23,Domingo,Mañana,7,Centro Histórico,Delivery,Chocolate caliente,Café caliente,1,3.0,3.0,Tarjeta,Nuevo,4,Soleado,21.8
+V0120,2026-08-23,Domingo,Mañana,8,La Carolina,En local,Jugo natural,Bebida fría,4,2.75,11.0,Tarjeta,Frecuente,5,Soleado,21.8
+V0121,2026-08-23,Domingo,Mañana,9,La Carolina,En local,Croissant,Panadería,1,2.25,2.25,Tarjeta,Frecuente,5,Soleado,21.8
+V0122,2026-08-23,Domingo,Tarde,14,La Carolina,En local,Americano,Café caliente,3,2.25,6.75,Tarjeta,Nuevo,4,Soleado,21.8
+V0123,2026-08-24,Lunes,Tarde,13,Cumbayá,Para llevar,Quesadilla quiteña,Postre,2,1.5,3.0,Tarjeta,Nuevo,5,Nublado,16.0
+V0124,2026-08-25,Martes,Mañana,7,Centro Histórico,En local,Quesadilla quiteña,Postre,1,1.5,1.5,Transferencia,Frecuente,5,Soleado,17.5
+V0125,2026-08-25,Martes,Mañana,10,Cumbayá,Para llevar,Jugo natural,Bebida fría,3,2.75,8.25,Efectivo,Frecuente,4,Soleado,17.5
+V0126,2026-08-25,Martes,Tarde,13,Centro Histórico,En local,Capuchino,Café caliente,3,3.25,9.75,Transferencia,Frecuente,4,Soleado,17.5
+V0127,2026-08-25,Martes,Tarde,17,La Floresta,En local,Frappé de café,Bebida fría,2,4.25,8.5,Efectivo,Frecuente,3,Soleado,17.5
+V0128,2026-08-26,Miércoles,Tarde,13,La Carolina,Para llevar,Americano,Café caliente,3,2.25,6.75,Efectivo,Frecuente,4,Soleado,24.7
+V0129,2026-08-26,Miércoles,Tarde,16,La Carolina,Para llevar,Té helado,Bebida fría,1,2.5,2.5,Transferencia,Nuevo,5,Soleado,24.7
+V0130,2026-08-27,Jueves,Mañana,10,La Floresta,Para llevar,Té helado,Bebida fría,1,2.5,2.5,Tarjeta,Nuevo,5,Nublado,15.4
+V0131,2026-08-27,Jueves,Tarde,13,Centro Histórico,Delivery,Empanada de verde,Panadería,1,1.75,1.75,Tarjeta,Frecuente,3,Nublado,15.4
+V0132,2026-08-27,Jueves,Tarde,14,La Carolina,En local,Chocolate caliente,Café caliente,2,3.0,6.0,Tarjeta,Frecuente,5,Nublado,15.4
+V0133,2026-08-27,Jueves,Tarde,16,La Floresta,En local,Torta de chocolate,Postre,1,3.75,3.75,Tarjeta,Nuevo,4,Nublado,15.4
+V0134,2026-08-27,Jueves,Noche,20,La Carolina,Para llevar,Torta de chocolate,Postre,1,3.75,3.75,Tarjeta,Frecuente,5,Nublado,15.4
+V0135,2026-08-28,Viernes,Mañana,8,La Carolina,En local,Jugo natural,Bebida fría,1,2.75,2.75,Tarjeta,Frecuente,5,Soleado,20.4
+V0136,2026-08-28,Viernes,Mañana,8,La Carolina,Para llevar,Frappé de café,Bebida fría,2,4.25,8.5,Tarjeta,Frecuente,4,Soleado,20.4
+V0137,2026-08-28,Viernes,Mañana,10,Centro Histórico,En local,Croissant,Panadería,1,2.25,2.25,Tarjeta,Nuevo,5,Soleado,20.4
+V0138,2026-08-28,Viernes,Mañana,11,La Floresta,Para llevar,Humita,Panadería,1,2.0,2.0,Transferencia,Nuevo,4,Soleado,20.4
+V0139,2026-08-28,Viernes,Tarde,14,Cumbayá,En local,Jugo natural,Bebida fría,1,2.75,2.75,Efectivo,Frecuente,4,Soleado,20.4
+V0140,2026-08-28,Viernes,Tarde,14,Cumbayá,Para llevar,Cheesecake de mora,Postre,1,4.0,4.0,Efectivo,Nuevo,5,Soleado,20.4
+V0141,2026-08-28,Viernes,Tarde,14,La Carolina,Para llevar,Empanada de verde,Panadería,2,1.75,3.5,Efectivo,Frecuente,4,Soleado,20.4
+V0142,2026-08-28,Viernes,Tarde,15,Cumbayá,En local,Capuchino,Café caliente,3,3.25,9.75,Efectivo,Nuevo,4,Soleado,20.4
+V0143,2026-08-28,Viernes,Tarde,16,La Carolina,En local,Jugo natural,Bebida fría,3,2.75,8.25,Efectivo,Nuevo,4,Soleado,20.4
+V0144,2026-08-28,Viernes,Noche,20,Cumbayá,Para llevar,Cheesecake de mora,Postre,2,4.0,8.0,Tarjeta,Frecuente,5,Soleado,20.4
+V0145,2026-08-29,Sábado,Mañana,7,La Carolina,En local,Americano,Café caliente,1,2.25,2.25,Tarjeta,Nuevo,5,Nublado,16.9
+V0146,2026-08-29,Sábado,Mañana,7,Centro Histórico,Para llevar,Cheesecake de mora,Postre,1,4.0,4.0,Tarjeta,Nuevo,2,Nublado,16.9
+V0147,2026-08-29,Sábado,Mañana,8,Cumbayá,Delivery,Humita,Panadería,1,2.0,2.0,Tarjeta,Nuevo,5,Nublado,16.9
+V0148,2026-08-29,Sábado,Mañana,9,La Floresta,En local,Chocolate caliente,Café caliente,1,3.0,3.0,Tarjeta,Frecuente,4,Nublado,16.9
+V0149,2026-08-29,Sábado,Mañana,10,Cumbayá,Delivery,Chocolate caliente,Café caliente,2,3.0,6.0,Efectivo,Nuevo,4,Nublado,16.9
+V0150,2026-08-29,Sábado,Mañana,11,Centro Histórico,Para llevar,Humita,Panadería,3,2.0,6.0,Transferencia,Nuevo,5,Nublado,16.9
+V0151,2026-08-29,Sábado,Mañana,11,Cumbayá,En local,Empanada de verde,Panadería,2,1.75,3.5,Tarjeta,Nuevo,3,Nublado,16.9
+V0152,2026-08-29,Sábado,Tarde,14,La Floresta,Delivery,Quesadilla quiteña,Postre,1,1.5,1.5,Efectivo,Nuevo,5,Nublado,16.9
+V0153,2026-08-29,Sábado,Noche,20,La Carolina,En local,Humita,Panadería,1,2.0,2.0,Tarjeta,Nuevo,5,Nublado,16.9
+V0154,2026-08-30,Domingo,Mañana,7,Cumbayá,En local,Frappé de café,Bebida fría,2,4.25,8.5,Efectivo,Nuevo,5,Lluvioso,15.7
+V0155,2026-08-30,Domingo,Mañana,8,Cumbayá,Para llevar,Espresso,Café caliente,2,1.75,3.5,Tarjeta,Nuevo,4,Lluvioso,15.7
+V0156,2026-08-30,Domingo,Mañana,11,Centro Histórico,Para llevar,Chocolate caliente,Café caliente,1,3.0,3.0,Tarjeta,Nuevo,5,Lluvioso,15.7
+V0157,2026-08-30,Domingo,Tarde,17,La Carolina,En local,Croissant,Panadería,1,2.25,2.25,Transferencia,Nuevo,5,Lluvioso,15.7
+V0158,2026-08-31,Lunes,Mañana,8,La Floresta,En local,Chocolate caliente,Café caliente,1,3.0,3.0,Efectivo,Nuevo,4,Soleado,24.0
+V0159,2026-08-31,Lunes,Mañana,8,Centro Histórico,Delivery,Croissant,Panadería,2,2.25,4.5,Transferencia,Frecuente,4,Soleado,24.0
+V0160,2026-08-31,Lunes,Mañana,9,La Floresta,En local,Capuchino,Café caliente,2,3.25,6.5,Tarjeta,Nuevo,5,Soleado,24.0
+V0161,2026-08-31,Lunes,Mañana,10,La Carolina,Delivery,Croissant,Panadería,2,2.25,4.5,Efectivo,Nuevo,3,Soleado,24.0
+V0162,2026-08-31,Lunes,Tarde,17,La Floresta,Para llevar,Croissant,Panadería,3,2.25,6.75,Efectivo,Nuevo,5,Soleado,24.0
+V0163,2026-08-31,Lunes,Noche,20,La Carolina,En local,Chocolate caliente,Café caliente,1,3.0,3.0,Transferencia,Frecuente,4,Soleado,24.0
+V0164,2026-09-01,Martes,Mañana,8,La Carolina,En local,Empanada de verde,Panadería,1,1.75,1.75,Transferencia,Nuevo,5,Nublado,18.4
+V0165,2026-09-01,Martes,Noche,19,La Floresta,En local,Croissant,Panadería,2,2.25,4.5,Efectivo,Frecuente,4,Nublado,18.4
+V0166,2026-09-01,Martes,Noche,19,Cumbayá,En local,Frappé de café,Bebida fría,1,4.25,4.25,Tarjeta,Nuevo,4,Nublado,18.4
+V0167,2026-09-01,Martes,Noche,20,Cumbayá,En local,Latte,Café caliente,2,3.5,7.0,Transferencia,Frecuente,5,Nublado,18.4
+V0168,2026-09-02,Miércoles,Mañana,7,La Carolina,Corporativo,Pan de yuca,Panadería,50,1.25,62.5,Transferencia,Frecuente,5,Soleado,22.9
+V0169,2026-09-02,Miércoles,Mañana,8,La Carolina,Corporativo,Americano,Café caliente,66,2.25,148.5,Transferencia,Frecuente,4,Soleado,22.9
+V0170,2026-09-02,Miércoles,Mañana,10,Cumbayá,Para llevar,Pan de yuca,Panadería,2,1.25,2.5,Efectivo,Frecuente,3,Soleado,22.9
+V0171,2026-09-03,Jueves,Mañana,9,La Carolina,Para llevar,Espresso,Café caliente,1,1.75,1.75,Efectivo,Frecuente,5,Soleado,23.9
+V0172,2026-09-03,Jueves,Tarde,16,Centro Histórico,En local,Humita,Panadería,1,2.0,2.0,Efectivo,Frecuente,5,Soleado,23.9
+V0173,2026-09-03,Jueves,Noche,18,La Carolina,Para llevar,Pan de yuca,Panadería,1,1.25,1.25,Tarjeta,Frecuente,5,Soleado,23.9
+V0174,2026-09-04,Viernes,Mañana,8,Cumbayá,Para llevar,Espresso,Café caliente,2,1.75,3.5,Efectivo,Nuevo,5,Soleado,19.0
+V0175,2026-09-04,Viernes,Mañana,10,Cumbayá,Para llevar,Croissant,Panadería,2,2.25,4.5,Tarjeta,Nuevo,5,Soleado,19.0
+V0176,2026-09-04,Viernes,Tarde,15,Centro Histórico,En local,Frappé de café,Bebida fría,4,4.25,17.0,Tarjeta,Frecuente,5,Soleado,19.0
+V0177,2026-09-04,Viernes,Tarde,15,Centro Histórico,Para llevar,Croissant,Panadería,1,2.25,2.25,Efectivo,Nuevo,2,Soleado,19.0
+V0178,2026-09-04,Viernes,Tarde,15,Cumbayá,Delivery,Quesadilla quiteña,Postre,2,1.5,3.0,Transferencia,Frecuente,3,Soleado,19.0
+V0179,2026-09-04,Viernes,Tarde,16,Centro Histórico,Para llevar,Capuchino,Café caliente,4,3.25,13.0,Transferencia,Frecuente,5,Soleado,19.0
+V0180,2026-09-04,Viernes,Tarde,17,La Floresta,Para llevar,Americano,Café caliente,1,2.25,2.25,Efectivo,Frecuente,5,Soleado,19.0
+V0181,2026-09-05,Sábado,Mañana,8,La Carolina,Para llevar,Cheesecake de mora,Postre,2,4.0,8.0,Transferencia,Nuevo,4,Soleado,24.8
+V0182,2026-09-05,Sábado,Mañana,8,Cumbayá,En local,Humita,Panadería,1,2.0,2.0,Transferencia,Nuevo,5,Soleado,24.8
+V0183,2026-09-05,Sábado,Mañana,10,La Carolina,Para llevar,Espresso,Café caliente,2,1.75,3.5,Tarjeta,Nuevo,5,Soleado,24.8
+V0184,2026-09-05,Sábado,Noche,18,Centro Histórico,Para llevar,Jugo natural,Bebida fría,2,2.75,5.5,Tarjeta,Nuevo,4,Soleado,24.8
+V0185,2026-09-05,Sábado,Noche,18,Cumbayá,En local,Torta de chocolate,Postre,2,3.75,7.5,Transferencia,Nuevo,4,Soleado,24.8
+V0186,2026-09-06,Domingo,Mañana,9,La Carolina,En local,Empanada de verde,Panadería,1,1.75,1.75,Transferencia,Nuevo,5,Nublado,15.5
+V0187,2026-09-06,Domingo,Tarde,16,La Carolina,En local,Espresso,Café caliente,1,1.75,1.75,Efectivo,Frecuente,5,Nublado,15.5
+V0188,2026-09-07,Lunes,Mañana,7,La Carolina,En local,Latte,Café caliente,1,3.5,3.5,Tarjeta,Nuevo,4,Nublado,17.1
+V0189,2026-09-07,Lunes,Mañana,10,La Carolina,En local,Espresso,Café caliente,2,1.75,3.5,Transferencia,Frecuente,5,Nublado,17.1
+V0190,2026-09-07,Lunes,Tarde,12,La Carolina,Para llevar,Capuchino,Café caliente,2,3.25,6.5,Tarjeta,Nuevo,5,Nublado,17.1
+V0191,2026-09-07,Lunes,Tarde,15,La Carolina,En local,Pan de yuca,Panadería,2,1.25,2.5,Tarjeta,Frecuente,4,Nublado,17.1
+V0192,2026-09-07,Lunes,Tarde,16,La Floresta,Para llevar,Latte,Café caliente,1,3.5,3.5,Tarjeta,Frecuente,4,Nublado,17.1
+V0193,2026-09-07,Lunes,Tarde,17,Cumbayá,Para llevar,Espresso,Café caliente,1,1.75,1.75,Transferencia,Nuevo,4,Nublado,17.1
+V0194,2026-09-07,Lunes,Noche,18,La Floresta,Para llevar,Té helado,Bebida fría,1,2.5,2.5,Efectivo,Nuevo,5,Nublado,17.1
+V0195,2026-09-08,Martes,Mañana,10,La Floresta,Para llevar,Americano,Café caliente,2,2.25,4.5,Efectivo,Nuevo,3,Nublado,19.3
+V0196,2026-09-08,Martes,Tarde,12,Cumbayá,En local,Espresso,Café caliente,2,1.75,3.5,Tarjeta,Frecuente,5,Nublado,19.3
+V0197,2026-09-08,Martes,Tarde,14,La Floresta,Delivery,Humita,Panadería,1,2.0,2.0,Efectivo,Nuevo,5,Nublado,19.3
+V0198,2026-09-09,Miércoles,Mañana,7,Cumbayá,Para llevar,Croissant,Panadería,4,2.25,9.0,Efectivo,Frecuente,4,Lluvioso,14.3
+V0199,2026-09-09,Miércoles,Mañana,9,Cumbayá,Corporativo,Croissant,Panadería,109,2.25,245.25,Transferencia,Frecuente,5,Lluvioso,14.3
+V0200,2026-09-09,Miércoles,Mañana,10,Cumbayá,En local,Empanada de verde,Panadería,1,1.75,1.75,Efectivo,Nuevo,5,Lluvioso,14.3
+V0201,2026-09-09,Miércoles,Mañana,11,La Floresta,En local,Cheesecake de mora,Postre,1,4.0,4.0,Tarjeta,Frecuente,4,Lluvioso,14.3
+V0202,2026-09-09,Miércoles,Tarde,12,La Carolina,En local,Croissant,Panadería,1,2.25,2.25,Tarjeta,Nuevo,5,Lluvioso,14.3
+V0203,2026-09-09,Miércoles,Tarde,15,La Floresta,Delivery,Croissant,Panadería,4,2.25,9.0,Efectivo,Nuevo,4,Lluvioso,14.3
+V0204,2026-09-09,Miércoles,Tarde,15,Cumbayá,En local,Cheesecake de mora,Postre,1,4.0,4.0,Tarjeta,Frecuente,5,Lluvioso,14.3
+V0205,2026-09-09,Miércoles,Tarde,17,La Carolina,Para llevar,Quesadilla quiteña,Postre,4,1.5,6.0,Transferencia,Frecuente,3,Lluvioso,14.3
+V0206,2026-09-09,Miércoles,Tarde,17,Cumbayá,En local,Latte,Café caliente,2,3.5,7.0,Transferencia,Frecuente,4,Lluvioso,14.3
+V0207,2026-09-10,Jueves,Mañana,8,Cumbayá,Para llevar,Frappé de café,Bebida fría,3,4.25,12.75,Efectivo,Nuevo,5,Soleado,18.4
+V0208,2026-09-10,Jueves,Tarde,16,La Carolina,Para llevar,Espresso,Café caliente,1,1.75,1.75,Transferencia,Frecuente,5,Soleado,18.4
+V0209,2026-09-11,Viernes,Mañana,9,La Carolina,En local,Té helado,Bebida fría,4,2.5,10.0,Efectivo,Frecuente,2,Soleado,22.3
+V0210,2026-09-11,Viernes,Mañana,10,Centro Histórico,Para llevar,Espresso,Café caliente,3,1.75,5.25,Efectivo,Frecuente,5,Soleado,22.3
+V0211,2026-09-11,Viernes,Tarde,13,La Floresta,En local,Humita,Panadería,3,2.0,6.0,Tarjeta,Frecuente,4,Soleado,22.3
+V0212,2026-09-11,Viernes,Tarde,15,La Floresta,Delivery,Capuchino,Café caliente,1,3.25,3.25,Transferencia,Nuevo,4,Soleado,22.3
+V0213,2026-09-11,Viernes,Noche,18,La Carolina,En local,Latte,Café caliente,2,3.5,7.0,Efectivo,Nuevo,2,Soleado,22.3
+V0214,2026-09-11,Viernes,Noche,19,Cumbayá,En local,Jugo natural,Bebida fría,2,2.75,5.5,Tarjeta,Nuevo,4,Soleado,22.3
+V0215,2026-09-11,Viernes,Noche,19,Centro Histórico,En local,Capuchino,Café caliente,2,3.25,6.5,Transferencia,Frecuente,4,Soleado,22.3
+V0216,2026-09-11,Viernes,Noche,19,Centro Histórico,En local,Frappé de café,Bebida fría,1,4.25,4.25,Efectivo,Nuevo,4,Soleado,22.3
+V0217,2026-09-11,Viernes,Noche,20,Cumbayá,Para llevar,Chocolate caliente,Café caliente,2,3.0,6.0,Tarjeta,Nuevo,3,Soleado,22.3
+V0218,2026-09-12,Sábado,Mañana,7,La Carolina,En local,Chocolate caliente,Café caliente,1,3.0,3.0,Efectivo,Nuevo,2,Lluvioso,18.4
+V0219,2026-09-12,Sábado,Mañana,9,Centro Histórico,En local,Croissant,Panadería,2,2.25,4.5,Efectivo,Frecuente,4,Lluvioso,18.4
+V0220,2026-09-12,Sábado,Mañana,10,La Carolina,Para llevar,Capuchino,Café caliente,2,3.25,6.5,Transferencia,Nuevo,4,Lluvioso,18.4
+V0221,2026-09-12,Sábado,Mañana,10,La Floresta,Delivery,Espresso,Café caliente,1,1.75,1.75,Tarjeta,Frecuente,5,Lluvioso,18.4
+V0222,2026-09-12,Sábado,Mañana,10,La Carolina,Delivery,Jugo natural,Bebida fría,1,2.75,2.75,Efectivo,Frecuente,5,Lluvioso,18.4
+V0223,2026-09-12,Sábado,Mañana,11,La Floresta,En local,Latte,Café caliente,4,3.5,14.0,Transferencia,Frecuente,5,Lluvioso,18.4
+V0224,2026-09-12,Sábado,Tarde,13,La Carolina,Delivery,Latte,Café caliente,1,3.5,3.5,Transferencia,Frecuente,3,Lluvioso,18.4
+V0225,2026-09-12,Sábado,Tarde,14,La Floresta,Delivery,Capuchino,Café caliente,1,3.25,3.25,Tarjeta,Nuevo,2,Lluvioso,18.4
+V0226,2026-09-12,Sábado,Tarde,15,Cumbayá,Para llevar,Capuchino,Café caliente,1,3.25,3.25,Efectivo,Nuevo,4,Lluvioso,18.4
+V0227,2026-09-12,Sábado,Tarde,16,La Floresta,Para llevar,Espresso,Café caliente,1,1.75,1.75,Efectivo,Frecuente,3,Lluvioso,18.4
+V0228,2026-09-12,Sábado,Tarde,17,La Carolina,Para llevar,Empanada de verde,Panadería,1,1.75,1.75,Tarjeta,Nuevo,4,Lluvioso,18.4
+V0229,2026-09-12,Sábado,Tarde,17,Centro Histórico,En local,Torta de chocolate,Postre,1,3.75,3.75,Tarjeta,Frecuente,4,Lluvioso,18.4
+V0230,2026-09-12,Sábado,Noche,18,La Floresta,En local,Pan de yuca,Panadería,2,1.25,2.5,Efectivo,Nuevo,5,Lluvioso,18.4
+V0231,2026-09-12,Sábado,Noche,18,La Carolina,En local,Croissant,Panadería,2,2.25,4.5,Tarjeta,Frecuente,5,Lluvioso,18.4
+V0232,2026-09-12,Sábado,Noche,19,Cumbayá,En local,Pan de yuca,Panadería,1,1.25,1.25,Efectivo,Nuevo,5,Lluvioso,18.4
+V0233,2026-09-12,Sábado,Noche,20,Cumbayá,Delivery,Frappé de café,Bebida fría,4,4.25,17.0,Tarjeta,Nuevo,4,Lluvioso,18.4
+V0234,2026-09-13,Domingo,Tarde,12,La Floresta,Para llevar,Torta de chocolate,Postre,1,3.75,3.75,Tarjeta,Frecuente,5,Nublado,18.2
+V0235,2026-09-13,Domingo,Noche,20,La Floresta,En local,Frappé de café,Bebida fría,1,4.25,4.25,Tarjeta,Frecuente,4,Nublado,18.2
+V0236,2026-09-14,Lunes,Mañana,8,Centro Histórico,Para llevar,Americano,Café caliente,1,2.25,2.25,Efectivo,Nuevo,3,Lluvioso,16.1
+V0237,2026-09-14,Lunes,Mañana,9,Cumbayá,En local,Americano,Café caliente,2,2.25,4.5,Transferencia,Frecuente,2,Lluvioso,16.1
+V0238,2026-09-14,Lunes,Tarde,17,La Floresta,En local,Capuchino,Café caliente,2,3.25,6.5,Tarjeta,Frecuente,5,Lluvioso,16.1
+V0239,2026-09-15,Martes,Mañana,8,Cumbayá,En local,Chocolate caliente,Café caliente,2,3.0,6.0,Efectivo,Frecuente,5,Nublado,15.7
+V0240,2026-09-15,Martes,Mañana,11,La Floresta,Para llevar,Americano,Café caliente,1,2.25,2.25,Tarjeta,Nuevo,4,Nublado,15.7
+V0241,2026-09-15,Martes,Mañana,11,La Floresta,Delivery,Chocolate caliente,Café caliente,1,3.0,3.0,Tarjeta,Nuevo,3,Nublado,15.7
+V0242,2026-09-15,Martes,Tarde,17,Centro Histórico,Para llevar,Pan de yuca,Panadería,4,1.25,5.0,Efectivo,Nuevo,5,Nublado,15.7
+V0243,2026-09-16,Miércoles,Mañana,8,Centro Histórico,En local,Chocolate caliente,Café caliente,2,3.0,6.0,Transferencia,Frecuente,4,Soleado,24.5
+V0244,2026-09-16,Miércoles,Tarde,16,Centro Histórico,Para llevar,Croissant,Panadería,1,2.25,2.25,Efectivo,Nuevo,5,Soleado,24.5
+V0245,2026-09-16,Miércoles,Noche,18,Cumbayá,En local,Jugo natural,Bebida fría,1,2.75,2.75,Efectivo,Nuevo,3,Soleado,24.5
+V0246,2026-09-16,Miércoles,Noche,19,La Floresta,En local,Quesadilla quiteña,Postre,2,1.5,3.0,Tarjeta,Frecuente,2,Soleado,24.5
+V0247,2026-09-16,Miércoles,Noche,19,Cumbayá,En local,Frappé de café,Bebida fría,1,4.25,4.25,Efectivo,Frecuente,3,Soleado,24.5
+V0248,2026-09-17,Jueves,Mañana,8,Cumbayá,En local,Empanada de verde,Panadería,4,1.75,7.0,Efectivo,Nuevo,4,Lluvioso,14.9
+V0249,2026-09-17,Jueves,Mañana,9,La Floresta,Delivery,Té helado,Bebida fría,3,2.5,7.5,Tarjeta,Nuevo,4,Lluvioso,14.9
+V0250,2026-09-17,Jueves,Mañana,10,La Floresta,Delivery,Capuchino,Café caliente,1,3.25,3.25,Tarjeta,Frecuente,2,Lluvioso,14.9
+V0251,2026-09-17,Jueves,Mañana,11,Cumbayá,Para llevar,Quesadilla quiteña,Postre,2,1.5,3.0,Transferencia,Nuevo,5,Lluvioso,14.9
+V0252,2026-09-17,Jueves,Tarde,12,La Floresta,Para llevar,Quesadilla quiteña,Postre,2,1.5,3.0,Efectivo,Frecuente,4,Lluvioso,14.9
+V0253,2026-09-17,Jueves,Tarde,13,La Floresta,En local,Empanada de verde,Panadería,2,1.75,3.5,Tarjeta,Frecuente,5,Lluvioso,14.9
+V0254,2026-09-17,Jueves,Noche,20,La Carolina,En local,Latte,Café caliente,2,3.5,7.0,Tarjeta,Nuevo,4,Lluvioso,14.9
+V0255,2026-09-17,Jueves,Noche,20,La Floresta,En local,Pan de yuca,Panadería,2,1.25,2.5,Efectivo,Frecuente,5,Lluvioso,14.9
+V0256,2026-09-18,Viernes,Mañana,8,La Carolina,Para llevar,Empanada de verde,Panadería,1,1.75,1.75,Tarjeta,Frecuente,4,Nublado,18.1
+V0257,2026-09-18,Viernes,Mañana,8,Cumbayá,Para llevar,Quesadilla quiteña,Postre,2,1.5,3.0,Tarjeta,Frecuente,3,Nublado,18.1
+V0258,2026-09-18,Viernes,Mañana,10,La Carolina,En local,Latte,Café caliente,1,3.5,3.5,Tarjeta,Frecuente,4,Nublado,18.1
+V0259,2026-09-18,Viernes,Mañana,10,La Carolina,Para llevar,Capuchino,Café caliente,4,3.25,13.0,Transferencia,Frecuente,3,Nublado,18.1
+V0260,2026-09-18,Viernes,Tarde,13,Cumbayá,En local,Cheesecake de mora,Postre,2,4.0,8.0,Tarjeta,Nuevo,5,Nublado,18.1
+V0261,2026-09-18,Viernes,Tarde,15,La Floresta,En local,Espresso,Café caliente,1,1.75,1.75,Tarjeta,Frecuente,5,Nublado,18.1
+V0262,2026-09-18,Viernes,Noche,18,La Carolina,En local,Frappé de café,Bebida fría,2,4.25,8.5,Efectivo,Frecuente,5,Nublado,18.1
+V0263,2026-09-19,Sábado,Mañana,9,La Carolina,En local,Empanada de verde,Panadería,2,1.75,3.5,Efectivo,Frecuente,5,Nublado,17.3
+V0264,2026-09-19,Sábado,Mañana,10,La Carolina,En local,Frappé de café,Bebida fría,1,4.25,4.25,Transferencia,Nuevo,4,Nublado,17.3
+V0265,2026-09-19,Sábado,Tarde,15,Cumbayá,Para llevar,Cheesecake de mora,Postre,1,4.0,4.0,Efectivo,Frecuente,5,Nublado,17.3
+V0266,2026-09-19,Sábado,Tarde,17,Centro Histórico,Para llevar,Pan de yuca,Panadería,1,1.25,1.25,Efectivo,Nuevo,4,Nublado,17.3
+V0267,2026-09-19,Sábado,Tarde,17,La Floresta,En local,Latte,Café caliente,2,3.5,7.0,Transferencia,Frecuente,4,Nublado,17.3
+V0268,2026-09-19,Sábado,Tarde,17,La Floresta,En local,Empanada de verde,Panadería,3,1.75,5.25,Transferencia,Frecuente,5,Nublado,17.3
+V0269,2026-09-19,Sábado,Noche,18,Cumbayá,Para llevar,Latte,Café caliente,2,3.5,7.0,Tarjeta,Frecuente,5,Nublado,17.3
+V0270,2026-09-19,Sábado,Noche,18,Centro Histórico,Para llevar,Americano,Café caliente,1,2.25,2.25,Efectivo,Frecuente,3,Nublado,17.3
+V0271,2026-09-20,Domingo,Mañana,9,La Floresta,Para llevar,Quesadilla quiteña,Postre,1,1.5,1.5,Tarjeta,Frecuente,4,Nublado,17.2
+V0272,2026-09-20,Domingo,Mañana,11,Cumbayá,Para llevar,Latte,Café caliente,2,3.5,7.0,Tarjeta,Nuevo,3,Nublado,17.2
+V0273,2026-09-20,Domingo,Tarde,14,La Floresta,En local,Latte,Café caliente,3,3.5,10.5,Tarjeta,Frecuente,5,Nublado,17.2
+V0274,2026-09-21,Lunes,Mañana,9,La Carolina,Para llevar,Frappé de café,Bebida fría,2,4.25,8.5,Tarjeta,Frecuente,5,Soleado,18.3
+V0275,2026-09-21,Lunes,Mañana,10,Centro Histórico,En local,Té helado,Bebida fría,3,2.5,7.5,Efectivo,Frecuente,5,Soleado,18.3
+V0276,2026-09-22,Martes,Mañana,8,Centro Histórico,En local,Americano,Café caliente,1,2.25,2.25,Transferencia,Frecuente,5,Lluvioso,14.6
+V0277,2026-09-22,Martes,Mañana,11,La Carolina,Para llevar,Croissant,Panadería,1,2.25,2.25,Transferencia,Nuevo,4,Lluvioso,14.6
+V0278,2026-09-22,Martes,Mañana,11,La Carolina,En local,Torta de chocolate,Postre,1,3.75,3.75,Tarjeta,Frecuente,3,Lluvioso,14.6
+V0279,2026-09-22,Martes,Tarde,12,Centro Histórico,Delivery,Americano,Café caliente,2,2.25,4.5,Transferencia,Frecuente,4,Lluvioso,14.6
+V0280,2026-09-22,Martes,Tarde,16,La Carolina,Delivery,Chocolate caliente,Café caliente,2,3.0,6.0,Transferencia,Frecuente,1,Lluvioso,14.6
+V0281,2026-09-23,Miércoles,Mañana,9,La Carolina,Para llevar,Capuchino,Café caliente,2,3.25,6.5,Efectivo,Frecuente,4,Nublado,17.1
+V0282,2026-09-23,Miércoles,Mañana,9,La Floresta,En local,Torta de chocolate,Postre,2,3.75,7.5,Tarjeta,Nuevo,1,Nublado,17.1
+V0283,2026-09-23,Miércoles,Tarde,17,La Floresta,En local,Frappé de café,Bebida fría,2,4.25,8.5,Tarjeta,Frecuente,2,Nublado,17.1
+V0284,2026-09-24,Jueves,Tarde,15,La Carolina,En local,Torta de chocolate,Postre,4,3.75,15.0,Tarjeta,Frecuente,4,Soleado,22.4
+V0285,2026-09-24,Jueves,Noche,19,Cumbayá,Para llevar,Té helado,Bebida fría,1,2.5,2.5,Tarjeta,Frecuente,4,Soleado,22.4
+V0286,2026-09-25,Viernes,Mañana,8,La Carolina,En local,Té helado,Bebida fría,2,2.5,5.0,Efectivo,Frecuente,4,Nublado,16.3
+V0287,2026-09-25,Viernes,Mañana,9,Cumbayá,Para llevar,Chocolate caliente,Café caliente,2,3.0,6.0,Tarjeta,Nuevo,3,Nublado,16.3
+V0288,2026-09-25,Viernes,Mañana,10,La Carolina,Delivery,Latte,Café caliente,1,3.5,3.5,Tarjeta,Nuevo,4,Nublado,16.3
+V0289,2026-09-25,Viernes,Tarde,13,La Floresta,Delivery,Chocolate caliente,Café caliente,2,3.0,6.0,Tarjeta,Nuevo,5,Nublado,16.3
+V0290,2026-09-25,Viernes,Tarde,14,Centro Histórico,En local,Té helado,Bebida fría,2,2.5,5.0,Efectivo,Nuevo,5,Nublado,16.3
+V0291,2026-09-25,Viernes,Tarde,15,La Floresta,En local,Torta de chocolate,Postre,2,3.75,7.5,Tarjeta,Nuevo,5,Nublado,16.3
+V0292,2026-09-25,Viernes,Noche,18,Centro Histórico,En local,Empanada de verde,Panadería,1,1.75,1.75,Efectivo,Frecuente,4,Nublado,16.3
+V0293,2026-09-25,Viernes,Noche,18,Cumbayá,Para llevar,Espresso,Café caliente,1,1.75,1.75,Efectivo,Frecuente,5,Nublado,16.3
+V0294,2026-09-26,Sábado,Mañana,10,La Floresta,Para llevar,Té helado,Bebida fría,2,2.5,5.0,Tarjeta,Nuevo,5,Nublado,17.1
+V0295,2026-09-26,Sábado,Mañana,11,La Floresta,En local,Capuchino,Café caliente,1,3.25,3.25,Efectivo,Nuevo,4,Nublado,17.1
+V0296,2026-09-26,Sábado,Tarde,13,Centro Histórico,Para llevar,Capuchino,Café caliente,1,3.25,3.25,Tarjeta,Nuevo,5,Nublado,17.1
+V0297,2026-09-26,Sábado,Tarde,15,Cumbayá,En local,Croissant,Panadería,2,2.25,4.5,Tarjeta,Nuevo,4,Nublado,17.1
+V0298,2026-09-26,Sábado,Tarde,17,La Carolina,Para llevar,Espresso,Café caliente,2,1.75,3.5,Tarjeta,Frecuente,4,Nublado,17.1
+V0299,2026-09-27,Domingo,Mañana,11,La Floresta,Para llevar,Quesadilla quiteña,Postre,2,1.5,3.0,Tarjeta,Nuevo,5,Lluvioso,13.1
+V0300,2026-09-27,Domingo,Tarde,13,La Carolina,En local,Croissant,Panadería,1,2.25,2.25,Efectivo,Nuevo,4,Lluvioso,13.1
+V0301,2026-09-27,Domingo,Tarde,16,La Carolina,Delivery,Croissant,Panadería,2,2.25,4.5,Efectivo,Nuevo,3,Lluvioso,13.1
+V0302,2026-09-28,Lunes,Mañana,8,La Carolina,Corporativo,Humita,Panadería,42,2.0,84.0,Transferencia,Frecuente,4,Nublado,16.2
+V0303,2026-09-28,Lunes,Tarde,13,La Floresta,Para llevar,Frappé de café,Bebida fría,1,4.25,4.25,Transferencia,Nuevo,5,Nublado,16.2
+V0304,2026-09-28,Lunes,Tarde,14,La Carolina,En local,Cheesecake de mora,Postre,2,4.0,8.0,Transferencia,Frecuente,3,Nublado,16.2
+V0305,2026-09-28,Lunes,Noche,19,La Carolina,En local,Humita,Panadería,2,2.0,4.0,Transferencia,Frecuente,4,Nublado,16.2
+V0306,2026-09-29,Martes,Mañana,8,Cumbayá,Corporativo,Empanada de verde,Panadería,75,1.75,131.25,Transferencia,Frecuente,4,Nublado,15.9
+V0307,2026-09-29,Martes,Mañana,10,La Carolina,En local,Americano,Café caliente,1,2.25,2.25,Tarjeta,Nuevo,5,Nublado,15.9
+V0308,2026-09-29,Martes,Tarde,14,La Carolina,En local,Capuchino,Café caliente,2,3.25,6.5,Efectivo,Frecuente,5,Nublado,15.9
+V0309,2026-09-29,Martes,Tarde,14,Cumbayá,Delivery,Espresso,Café caliente,1,1.75,1.75,Efectivo,Nuevo,5,Nublado,15.9
+V0310,2026-09-29,Martes,Tarde,16,La Floresta,En local,Croissant,Panadería,2,2.25,4.5,Tarjeta,Frecuente,4,Nublado,15.9
+V0311,2026-09-29,Martes,Tarde,17,La Carolina,Para llevar,Empanada de verde,Panadería,2,1.75,3.5,Tarjeta,Frecuente,5,Nublado,15.9
+V0312,2026-09-30,Miércoles,Mañana,7,La Carolina,En local,Cheesecake de mora,Postre,1,4.0,4.0,Efectivo,Frecuente,5,Nublado,16.7
+V0313,2026-09-30,Miércoles,Mañana,8,La Carolina,En local,Quesadilla quiteña,Postre,1,1.5,1.5,Tarjeta,Nuevo,4,Nublado,16.7
+V0314,2026-09-30,Miércoles,Tarde,14,La Floresta,En local,Croissant,Panadería,1,2.25,2.25,Efectivo,Nuevo,3,Nublado,16.7
+V0315,2026-09-30,Miércoles,Tarde,15,Cumbayá,En local,Capuchino,Café caliente,1,3.25,3.25,Efectivo,Frecuente,5,Nublado,16.7
+V0316,2026-10-01,Jueves,Noche,19,La Carolina,Para llevar,Croissant,Panadería,1,2.25,2.25,Efectivo,Nuevo,4,Lluvioso,16.2
+V0317,2026-10-02,Viernes,Mañana,7,Cumbayá,Delivery,Croissant,Panadería,1,2.25,2.25,Tarjeta,Frecuente,5,Lluvioso,15.1
+V0318,2026-10-02,Viernes,Mañana,7,Cumbayá,Delivery,Chocolate caliente,Café caliente,1,3.0,3.0,Tarjeta,Nuevo,2,Lluvioso,15.1
+V0319,2026-10-02,Viernes,Mañana,9,La Carolina,En local,Espresso,Café caliente,2,1.75,3.5,Transferencia,Frecuente,4,Lluvioso,15.1
+V0320,2026-10-02,Viernes,Mañana,9,La Floresta,En local,Chocolate caliente,Café caliente,2,3.0,6.0,Efectivo,Frecuente,4,Lluvioso,15.1
+V0321,2026-10-02,Viernes,Mañana,9,La Carolina,Corporativo,Latte,Café caliente,60,3.5,210.0,Transferencia,Frecuente,4,Lluvioso,15.1
+V0322,2026-10-02,Viernes,Mañana,11,La Floresta,Para llevar,Croissant,Panadería,1,2.25,2.25,Tarjeta,Nuevo,5,Lluvioso,15.1
+V0323,2026-10-02,Viernes,Noche,19,La Carolina,En local,Latte,Café caliente,1,3.5,3.5,Efectivo,Frecuente,5,Lluvioso,15.1
+V0324,2026-10-02,Viernes,Noche,19,Centro Histórico,Para llevar,Americano,Café caliente,1,2.25,2.25,Efectivo,Frecuente,4,Lluvioso,15.1
+V0325,2026-10-03,Sábado,Mañana,8,Cumbayá,En local,Capuchino,Café caliente,1,3.25,3.25,Tarjeta,Frecuente,5,Nublado,18.0
+V0326,2026-10-03,Sábado,Mañana,8,Centro Histórico,En local,Té helado,Bebida fría,2,2.5,5.0,Tarjeta,Frecuente,5,Nublado,18.0
+V0327,2026-10-03,Sábado,Mañana,8,La Floresta,Para llevar,Croissant,Panadería,1,2.25,2.25,Tarjeta,Frecuente,5,Nublado,18.0
+V0328,2026-10-03,Sábado,Mañana,9,La Carolina,Para llevar,Americano,Café caliente,2,2.25,4.5,Transferencia,Nuevo,4,Nublado,18.0
+V0329,2026-10-03,Sábado,Mañana,11,La Carolina,En local,Quesadilla quiteña,Postre,1,1.5,1.5,Tarjeta,Nuevo,1,Nublado,18.0
+V0330,2026-10-03,Sábado,Tarde,16,La Carolina,En local,Capuchino,Café caliente,1,3.25,3.25,Efectivo,Nuevo,4,Nublado,18.0
+V0331,2026-10-03,Sábado,Tarde,17,La Carolina,En local,Espresso,Café caliente,1,1.75,1.75,Efectivo,Frecuente,3,Nublado,18.0
+V0332,2026-10-03,Sábado,Tarde,17,La Carolina,En local,Cheesecake de mora,Postre,1,4.0,4.0,Transferencia,Frecuente,3,Nublado,18.0
+V0333,2026-10-03,Sábado,Noche,18,Centro Histórico,En local,Chocolate caliente,Café caliente,1,3.0,3.0,Transferencia,Nuevo,4,Nublado,18.0
+V0334,2026-10-04,Domingo,Mañana,7,La Carolina,En local,Espresso,Café caliente,2,1.75,3.5,Tarjeta,Frecuente,4,Nublado,16.9
+V0335,2026-10-04,Domingo,Tarde,12,Cumbayá,Para llevar,Jugo natural,Bebida fría,1,2.75,2.75,Tarjeta,Nuevo,4,Nublado,16.9
+V0336,2026-10-04,Domingo,Tarde,12,La Floresta,En local,Té helado,Bebida fría,2,2.5,5.0,Transferencia,Frecuente,5,Nublado,16.9
+V0337,2026-10-04,Domingo,Tarde,17,Cumbayá,Para llevar,Torta de chocolate,Postre,4,3.75,15.0,Efectivo,Nuevo,4,Nublado,16.9
+V0338,2026-10-04,Domingo,Noche,19,La Carolina,En local,Espresso,Café caliente,1,1.75,1.75,Transferencia,Frecuente,5,Nublado,16.9
+V0339,2026-10-04,Domingo,Noche,20,Cumbayá,En local,Americano,Café caliente,1,2.25,2.25,Efectivo,Frecuente,3,Nublado,16.9
+V0340,2026-10-05,Lunes,Mañana,7,La Carolina,Para llevar,Espresso,Café caliente,1,1.75,1.75,Efectivo,Nuevo,5,Nublado,18.4
+V0341,2026-10-05,Lunes,Mañana,10,Centro Histórico,En local,Jugo natural,Bebida fría,1,2.75,2.75,Tarjeta,Nuevo,4,Nublado,18.4
+V0342,2026-10-05,Lunes,Tarde,12,Cumbayá,En local,Americano,Café caliente,1,2.25,2.25,Tarjeta,Frecuente,5,Nublado,18.4
+V0343,2026-10-05,Lunes,Tarde,16,La Floresta,En local,Latte,Café caliente,1,3.5,3.5,Transferencia,Frecuente,4,Nublado,18.4
+V0344,2026-10-06,Martes,Mañana,8,La Floresta,Delivery,Capuchino,Café caliente,2,3.25,6.5,Tarjeta,Frecuente,5,Lluvioso,14.0
+V0345,2026-10-06,Martes,Mañana,9,Cumbayá,Para llevar,Capuchino,Café caliente,1,3.25,3.25,Tarjeta,Nuevo,3,Lluvioso,14.0
+V0346,2026-10-06,Martes,Mañana,10,Cumbayá,En local,Capuchino,Café caliente,1,3.25,3.25,Tarjeta,Frecuente,4,Lluvioso,14.0
+V0347,2026-10-06,Martes,Tarde,12,La Carolina,Delivery,Chocolate caliente,Café caliente,1,3.0,3.0,Tarjeta,Frecuente,4,Lluvioso,14.0
+V0348,2026-10-07,Miércoles,Mañana,7,La Carolina,Delivery,Croissant,Panadería,1,2.25,2.25,Efectivo,Frecuente,4,Soleado,18.4
+V0349,2026-10-07,Miércoles,Mañana,9,La Carolina,Para llevar,Croissant,Panadería,1,2.25,2.25,Tarjeta,Frecuente,4,Soleado,18.4
+V0350,2026-10-07,Miércoles,Mañana,10,Cumbayá,En local,Jugo natural,Bebida fría,3,2.75,8.25,Tarjeta,Frecuente,4,Soleado,18.4
+V0351,2026-10-07,Miércoles,Mañana,10,Centro Histórico,En local,Torta de chocolate,Postre,1,3.75,3.75,Tarjeta,Nuevo,4,Soleado,18.4
+V0352,2026-10-07,Miércoles,Mañana,10,Cumbayá,En local,Jugo natural,Bebida fría,1,2.75,2.75,Tarjeta,Frecuente,4,Soleado,18.4
+V0353,2026-10-07,Miércoles,Tarde,12,La Carolina,En local,Jugo natural,Bebida fría,2,2.75,5.5,Efectivo,Frecuente,4,Soleado,18.4
+V0354,2026-10-07,Miércoles,Tarde,13,La Floresta,Para llevar,Espresso,Café caliente,3,1.75,5.25,Tarjeta,Frecuente,4,Soleado,18.4
+V0355,2026-10-07,Miércoles,Tarde,14,La Carolina,En local,Té helado,Bebida fría,2,2.5,5.0,Tarjeta,Frecuente,5,Soleado,18.4
+V0356,2026-10-07,Miércoles,Tarde,15,Cumbayá,Para llevar,Capuchino,Café caliente,1,3.25,3.25,Efectivo,Frecuente,4,Soleado,18.4
+V0357,2026-10-07,Miércoles,Noche,18,Centro Histórico,En local,Pan de yuca,Panadería,2,1.25,2.5,Transferencia,Frecuente,2,Soleado,18.4
+V0358,2026-10-08,Jueves,Mañana,7,Centro Histórico,En local,Cheesecake de mora,Postre,2,4.0,8.0,Transferencia,Frecuente,5,Lluvioso,11.4
+V0359,2026-10-08,Jueves,Mañana,11,Centro Histórico,Delivery,Chocolate caliente,Café caliente,2,3.0,6.0,Transferencia,Nuevo,3,Lluvioso,11.4
+V0360,2026-10-08,Jueves,Tarde,14,La Floresta,En local,Espresso,Café caliente,2,1.75,3.5,Tarjeta,Frecuente,5,Lluvioso,11.4
+V0361,2026-10-08,Jueves,Tarde,16,Centro Histórico,Delivery,Empanada de verde,Panadería,4,1.75,7.0,Tarjeta,Frecuente,5,Lluvioso,11.4
+V0362,2026-10-08,Jueves,Tarde,17,La Carolina,En local,Chocolate caliente,Café caliente,2,3.0,6.0,Tarjeta,Frecuente,5,Lluvioso,11.4
+V0363,2026-10-08,Jueves,Tarde,17,Cumbayá,Delivery,Espresso,Café caliente,4,1.75,7.0,Transferencia,Frecuente,4,Lluvioso,11.4
+V0364,2026-10-09,Viernes,Mañana,8,Centro Histórico,En local,Quesadilla quiteña,Postre,1,1.5,1.5,Tarjeta,Frecuente,2,Nublado,13.9
+V0365,2026-10-09,Viernes,Mañana,8,Cumbayá,En local,Americano,Café caliente,2,2.25,4.5,Tarjeta,Nuevo,4,Nublado,13.9
+V0366,2026-10-09,Viernes,Mañana,8,Centro Histórico,En local,Latte,Café caliente,3,3.5,10.5,Tarjeta,Frecuente,5,Nublado,13.9
+V0367,2026-10-09,Viernes,Mañana,10,La Floresta,Delivery,Croissant,Panadería,2,2.25,4.5,Tarjeta,Nuevo,1,Nublado,13.9
+V0368,2026-10-09,Viernes,Mañana,10,Centro Histórico,En local,Capuchino,Café caliente,1,3.25,3.25,Tarjeta,Frecuente,5,Nublado,13.9
+V0369,2026-10-09,Viernes,Tarde,12,Centro Histórico,Delivery,Latte,Café caliente,1,3.5,3.5,Transferencia,Frecuente,4,Nublado,13.9
+V0370,2026-10-09,Viernes,Tarde,12,La Carolina,Para llevar,Espresso,Café caliente,1,1.75,1.75,Efectivo,Frecuente,5,Nublado,13.9
+V0371,2026-10-10,Sábado,Mañana,7,Cumbayá,Para llevar,Empanada de verde,Panadería,1,1.75,1.75,Tarjeta,Frecuente,3,Soleado,23.7
+V0372,2026-10-10,Sábado,Mañana,8,La Floresta,En local,Cheesecake de mora,Postre,2,4.0,8.0,Tarjeta,Frecuente,5,Soleado,23.7
+V0373,2026-10-10,Sábado,Tarde,13,La Carolina,En local,Pan de yuca,Panadería,4,1.25,5.0,Tarjeta,Frecuente,3,Soleado,23.7
+V0374,2026-10-10,Sábado,Noche,20,Cumbayá,En local,Latte,Café caliente,2,3.5,7.0,Efectivo,Nuevo,5,Soleado,23.7
+V0375,2026-10-10,Sábado,Noche,20,Centro Histórico,En local,Croissant,Panadería,2,2.25,4.5,Tarjeta,Nuevo,2,Soleado,23.7
+V0376,2026-10-11,Domingo,Mañana,11,La Floresta,En local,Té helado,Bebida fría,1,2.5,2.5,Tarjeta,Nuevo,5,Nublado,16.8
+V0377,2026-10-11,Domingo,Mañana,11,Cumbayá,En local,Chocolate caliente,Café caliente,2,3.0,6.0,Tarjeta,Frecuente,4,Nublado,16.8
+V0378,2026-10-11,Domingo,Tarde,13,La Floresta,Para llevar,Capuchino,Café caliente,2,3.25,6.5,Efectivo,Nuevo,5,Nublado,16.8
+V0379,2026-10-11,Domingo,Noche,20,Centro Histórico,Delivery,Pan de yuca,Panadería,3,1.25,3.75,Tarjeta,Frecuente,5,Nublado,16.8
+V0380,2026-10-11,Domingo,Noche,20,Cumbayá,Para llevar,Pan de yuca,Panadería,2,1.25,2.5,Tarjeta,Nuevo,1,Nublado,16.8
+V0381,2026-10-11,Domingo,Noche,20,Cumbayá,En local,Empanada de verde,Panadería,2,1.75,3.5,Efectivo,Frecuente,5,Nublado,16.8
+V0382,2026-10-12,Lunes,Mañana,7,La Carolina,Para llevar,Frappé de café,Bebida fría,3,4.25,12.75,Transferencia,Nuevo,5,Soleado,23.1
+V0383,2026-10-12,Lunes,Mañana,7,Cumbayá,Para llevar,Té helado,Bebida fría,1,2.5,2.5,Tarjeta,Nuevo,4,Soleado,23.1
+V0384,2026-10-12,Lunes,Mañana,9,Cumbayá,Para llevar,Té helado,Bebida fría,1,2.5,2.5,Efectivo,Nuevo,4,Soleado,23.1
+V0385,2026-10-13,Martes,Mañana,8,Cumbayá,Para llevar,Chocolate caliente,Café caliente,2,3.0,6.0,Efectivo,Frecuente,3,Lluvioso,14.1
+V0386,2026-10-13,Martes,Mañana,9,La Floresta,Delivery,Chocolate caliente,Café caliente,2,3.0,6.0,Tarjeta,Nuevo,5,Lluvioso,14.1
+V0387,2026-10-13,Martes,Mañana,10,La Floresta,Delivery,Croissant,Panadería,1,2.25,2.25,Transferencia,Frecuente,3,Lluvioso,14.1
+V0388,2026-10-13,Martes,Tarde,13,Cumbayá,Delivery,Empanada de verde,Panadería,1,1.75,1.75,Efectivo,Frecuente,4,Lluvioso,14.1
+V0389,2026-10-13,Martes,Noche,18,Centro Histórico,Para llevar,Espresso,Café caliente,1,1.75,1.75,Tarjeta,Frecuente,5,Lluvioso,14.1
+V0390,2026-10-13,Martes,Noche,19,Centro Histórico,Para llevar,Americano,Café caliente,3,2.25,6.75,Transferencia,Nuevo,4,Lluvioso,14.1
+V0391,2026-10-14,Miércoles,Mañana,10,La Carolina,Delivery,Chocolate caliente,Café caliente,3,3.0,9.0,Efectivo,Frecuente,4,Nublado,17.3
+V0392,2026-10-14,Miércoles,Tarde,12,La Floresta,En local,Humita,Panadería,1,2.0,2.0,Efectivo,Nuevo,1,Nublado,17.3
+V0393,2026-10-14,Miércoles,Tarde,13,La Carolina,En local,Cheesecake de mora,Postre,2,4.0,8.0,Efectivo,Frecuente,5,Nublado,17.3
+V0394,2026-10-14,Miércoles,Tarde,14,Centro Histórico,En local,Chocolate caliente,Café caliente,4,3.0,12.0,Efectivo,Nuevo,3,Nublado,17.3
+V0395,2026-10-15,Jueves,Mañana,7,La Carolina,Corporativo,Quesadilla quiteña,Postre,65,1.5,97.5,Transferencia,Frecuente,4,Lluvioso,13.0
+V0396,2026-10-15,Jueves,Mañana,9,La Carolina,Delivery,Quesadilla quiteña,Postre,1,1.5,1.5,Efectivo,Nuevo,5,Lluvioso,13.0
+V0397,2026-10-15,Jueves,Mañana,10,La Floresta,En local,Espresso,Café caliente,1,1.75,1.75,Transferencia,Frecuente,5,Lluvioso,13.0
+V0398,2026-10-15,Jueves,Mañana,11,Cumbayá,Para llevar,Latte,Café caliente,3,3.5,10.5,Tarjeta,Nuevo,3,Lluvioso,13.0
+V0399,2026-10-15,Jueves,Noche,18,La Floresta,En local,Cheesecake de mora,Postre,2,4.0,8.0,Tarjeta,Frecuente,5,Lluvioso,13.0
+V0400,2026-10-16,Viernes,Mañana,7,Centro Histórico,Para llevar,Latte,Café caliente,3,3.5,10.5,Efectivo,Nuevo,4,Lluvioso,13.0
+V0401,2026-10-16,Viernes,Mañana,9,Centro Histórico,En local,Croissant,Panadería,3,2.25,6.75,Efectivo,Frecuente,4,Lluvioso,13.0
+V0402,2026-10-16,Viernes,Mañana,9,La Floresta,En local,Americano,Café caliente,2,2.25,4.5,Efectivo,Frecuente,5,Lluvioso,13.0
+V0403,2026-10-16,Viernes,Mañana,11,La Floresta,Para llevar,Pan de yuca,Panadería,2,1.25,2.5,Tarjeta,Frecuente,4,Lluvioso,13.0
+V0404,2026-10-16,Viernes,Tarde,17,La Carolina,Para llevar,Té helado,Bebida fría,2,2.5,5.0,Efectivo,Nuevo,3,Lluvioso,13.0
+V0405,2026-10-17,Sábado,Mañana,8,Cumbayá,En local,Capuchino,Café caliente,1,3.25,3.25,Tarjeta,Nuevo,5,Soleado,21.5
+V0406,2026-10-17,Sábado,Mañana,9,La Carolina,En local,Té helado,Bebida fría,1,2.5,2.5,Transferencia,Frecuente,3,Soleado,21.5
+V0407,2026-10-17,Sábado,Mañana,10,La Floresta,Para llevar,Quesadilla quiteña,Postre,1,1.5,1.5,Efectivo,Frecuente,4,Soleado,21.5
+V0408,2026-10-17,Sábado,Noche,18,Centro Histórico,Para llevar,Pan de yuca,Panadería,1,1.25,1.25,Transferencia,Nuevo,3,Soleado,21.5
+V0409,2026-10-17,Sábado,Noche,20,La Carolina,En local,Torta de chocolate,Postre,2,3.75,7.5,Efectivo,Frecuente,3,Soleado,21.5
+V0410,2026-10-18,Domingo,Mañana,7,Cumbayá,En local,Torta de chocolate,Postre,2,3.75,7.5,Transferencia,Frecuente,4,Nublado,15.4
+V0411,2026-10-18,Domingo,Mañana,7,Cumbayá,En local,Empanada de verde,Panadería,1,1.75,1.75,Efectivo,Frecuente,3,Nublado,15.4
+V0412,2026-10-18,Domingo,Mañana,8,Centro Histórico,Para llevar,Espresso,Café caliente,2,1.75,3.5,Efectivo,Frecuente,5,Nublado,15.4
+V0413,2026-10-18,Domingo,Mañana,9,Centro Histórico,En local,Té helado,Bebida fría,2,2.5,5.0,Tarjeta,Frecuente,4,Nublado,15.4
+V0414,2026-10-18,Domingo,Mañana,11,Centro Histórico,Para llevar,Jugo natural,Bebida fría,1,2.75,2.75,Transferencia,Frecuente,3,Nublado,15.4
+V0415,2026-10-18,Domingo,Mañana,11,Centro Histórico,Para llevar,Espresso,Café caliente,1,1.75,1.75,Efectivo,Frecuente,5,Nublado,15.4
+V0416,2026-10-18,Domingo,Tarde,16,La Carolina,En local,Espresso,Café caliente,1,1.75,1.75,Tarjeta,Frecuente,4,Nublado,15.4
+V0417,2026-10-18,Domingo,Tarde,17,La Carolina,Para llevar,Humita,Panadería,1,2.0,2.0,Transferencia,Frecuente,4,Nublado,15.4
+V0418,2026-10-19,Lunes,Mañana,7,La Carolina,Para llevar,Torta de chocolate,Postre,3,3.75,11.25,Tarjeta,Frecuente,4,Soleado,20.8
+V0419,2026-10-19,Lunes,Mañana,7,Cumbayá,Para llevar,Capuchino,Café caliente,1,3.25,3.25,Transferencia,Nuevo,5,Soleado,20.8
+V0420,2026-10-19,Lunes,Mañana,11,Cumbayá,Delivery,Frappé de café,Bebida fría,1,4.25,4.25,Efectivo,Nuevo,5,Soleado,20.8
+V0421,2026-10-19,Lunes,Tarde,13,Centro Histórico,En local,Latte,Café caliente,4,3.5,14.0,Efectivo,Nuevo,5,Soleado,20.8
+V0422,2026-10-19,Lunes,Tarde,15,La Floresta,Para llevar,Jugo natural,Bebida fría,2,2.75,5.5,Efectivo,Frecuente,4,Soleado,20.8
+V0423,2026-10-19,Lunes,Noche,19,Cumbayá,Delivery,Latte,Café caliente,1,3.5,3.5,Efectivo,Frecuente,3,Soleado,20.8
+V0424,2026-10-20,Martes,Mañana,10,La Carolina,En local,Croissant,Panadería,2,2.25,4.5,Transferencia,Frecuente,3,Nublado,15.4
+V0425,2026-10-20,Martes,Mañana,10,La Carolina,Delivery,Empanada de verde,Panadería,1,1.75,1.75,Tarjeta,Nuevo,1,Nublado,15.4
+V0426,2026-10-20,Martes,Mañana,10,La Carolina,Delivery,Empanada de verde,Panadería,1,1.75,1.75,Efectivo,Frecuente,2,Nublado,15.4
+V0427,2026-10-20,Martes,Tarde,17,Centro Histórico,En local,Torta de chocolate,Postre,1,3.75,3.75,Tarjeta,Frecuente,2,Nublado,15.4
+V0428,2026-10-20,Martes,Noche,20,La Carolina,En local,Chocolate caliente,Café caliente,2,3.0,6.0,Efectivo,Nuevo,5,Nublado,15.4
+V0429,2026-10-21,Miércoles,Mañana,8,La Carolina,En local,Frappé de café,Bebida fría,1,4.25,4.25,Efectivo,Frecuente,4,Soleado,21.4
+V0430,2026-10-21,Miércoles,Mañana,8,La Floresta,En local,Té helado,Bebida fría,3,2.5,7.5,Efectivo,Nuevo,4,Soleado,21.4
+V0431,2026-10-21,Miércoles,Mañana,9,Centro Histórico,Delivery,Té helado,Bebida fría,1,2.5,2.5,Tarjeta,Frecuente,3,Soleado,21.4
+V0432,2026-10-21,Miércoles,Tarde,12,La Floresta,En local,Torta de chocolate,Postre,2,3.75,7.5,Efectivo,Nuevo,4,Soleado,21.4
+V0433,2026-10-21,Miércoles,Tarde,14,La Floresta,En local,Quesadilla quiteña,Postre,1,1.5,1.5,Tarjeta,Nuevo,4,Soleado,21.4
+V0434,2026-10-21,Miércoles,Tarde,14,Centro Histórico,Para llevar,Quesadilla quiteña,Postre,1,1.5,1.5,Efectivo,Nuevo,4,Soleado,21.4
+V0435,2026-10-21,Miércoles,Noche,19,La Carolina,Para llevar,Humita,Panadería,4,2.0,8.0,Transferencia,Frecuente,4,Soleado,21.4
+V0436,2026-10-21,Miércoles,Noche,19,La Carolina,En local,Latte,Café caliente,2,3.5,7.0,Transferencia,Nuevo,2,Soleado,21.4
+V0437,2026-10-21,Miércoles,Noche,20,La Carolina,En local,Cheesecake de mora,Postre,2,4.0,8.0,Tarjeta,Nuevo,4,Soleado,21.4
+V0438,2026-10-22,Jueves,Mañana,10,La Floresta,Para llevar,Espresso,Café caliente,1,1.75,1.75,Efectivo,Nuevo,4,Nublado,17.1
+V0439,2026-10-22,Jueves,Mañana,11,La Floresta,En local,Chocolate caliente,Café caliente,1,3.0,3.0,Efectivo,Frecuente,5,Nublado,17.1
+V0440,2026-10-22,Jueves,Tarde,12,Centro Histórico,Delivery,Jugo natural,Bebida fría,1,2.75,2.75,Transferencia,Frecuente,3,Nublado,17.1
+V0441,2026-10-22,Jueves,Noche,19,La Floresta,En local,Jugo natural,Bebida fría,1,2.75,2.75,Efectivo,Nuevo,5,Nublado,17.1
+V0442,2026-10-22,Jueves,Noche,20,La Carolina,Para llevar,Frappé de café,Bebida fría,1,4.25,4.25,Efectivo,Nuevo,3,Nublado,17.1
+V0443,2026-10-23,Viernes,Mañana,10,Cumbayá,Para llevar,Frappé de café,Bebida fría,1,4.25,4.25,Efectivo,Nuevo,4,Nublado,16.8
+V0444,2026-10-23,Viernes,Mañana,10,La Floresta,Para llevar,Americano,Café caliente,1,2.25,2.25,Efectivo,Frecuente,4,Nublado,16.8
+V0445,2026-10-23,Viernes,Mañana,10,La Carolina,En local,Humita,Panadería,2,2.0,4.0,Tarjeta,Frecuente,2,Nublado,16.8
+V0446,2026-10-23,Viernes,Tarde,15,La Carolina,En local,Americano,Café caliente,1,2.25,2.25,Tarjeta,Frecuente,4,Nublado,16.8
+V0447,2026-10-23,Viernes,Tarde,16,Cumbayá,En local,Latte,Café caliente,4,3.5,14.0,Transferencia,Nuevo,5,Nublado,16.8
+V0448,2026-10-24,Sábado,Mañana,9,Centro Histórico,En local,Té helado,Bebida fría,2,2.5,5.0,Tarjeta,Frecuente,4,Soleado,19.0
+V0449,2026-10-24,Sábado,Mañana,10,La Carolina,En local,Frappé de café,Bebida fría,2,4.25,8.5,Tarjeta,Frecuente,5,Soleado,19.0
+V0450,2026-10-24,Sábado,Mañana,11,Cumbayá,Para llevar,Americano,Café caliente,1,2.25,2.25,Transferencia,Frecuente,5,Soleado,19.0
+V0451,2026-10-24,Sábado,Mañana,11,La Carolina,En local,Croissant,Panadería,2,2.25,4.5,Tarjeta,Nuevo,4,Soleado,19.0
+V0452,2026-10-24,Sábado,Tarde,16,La Carolina,Para llevar,Humita,Panadería,1,2.0,2.0,Efectivo,Frecuente,4,Soleado,19.0
+V0453,2026-10-24,Sábado,Tarde,16,La Floresta,En local,Frappé de café,Bebida fría,1,4.25,4.25,Tarjeta,Nuevo,4,Soleado,19.0
+V0454,2026-10-24,Sábado,Tarde,16,La Carolina,En local,Empanada de verde,Panadería,1,1.75,1.75,Efectivo,Frecuente,4,Soleado,19.0
+V0455,2026-10-24,Sábado,Noche,19,Cumbayá,Delivery,Espresso,Café caliente,1,1.75,1.75,Tarjeta,Frecuente,4,Soleado,19.0
+V0456,2026-10-25,Domingo,Mañana,9,Centro Histórico,Para llevar,Latte,Café caliente,2,3.5,7.0,Efectivo,Nuevo,5,Nublado,19.4
+V0457,2026-10-25,Domingo,Mañana,10,Cumbayá,Delivery,Quesadilla quiteña,Postre,1,1.5,1.5,Efectivo,Frecuente,2,Nublado,19.4
+V0458,2026-10-25,Domingo,Mañana,11,Centro Histórico,Delivery,Chocolate caliente,Café caliente,2,3.0,6.0,Tarjeta,Frecuente,3,Nublado,19.4
+V0459,2026-10-25,Domingo,Noche,19,La Carolina,En local,Americano,Café caliente,2,2.25,4.5,Transferencia,Nuevo,5,Nublado,19.4
+V0460,2026-10-25,Domingo,Noche,20,Centro Histórico,En local,Humita,Panadería,2,2.0,4.0,Transferencia,Frecuente,5,Nublado,19.4
+V0461,2026-10-26,Lunes,Mañana,9,Cumbayá,En local,Chocolate caliente,Café caliente,1,3.0,3.0,Transferencia,Nuevo,5,Nublado,15.3
+V0462,2026-10-26,Lunes,Mañana,11,La Floresta,Para llevar,Espresso,Café caliente,2,1.75,3.5,Tarjeta,Frecuente,5,Nublado,15.3
+V0463,2026-10-26,Lunes,Tarde,14,La Carolina,Para llevar,Americano,Café caliente,1,2.25,2.25,Tarjeta,Nuevo,2,Nublado,15.3
+V0464,2026-10-27,Martes,Mañana,7,La Floresta,En local,Americano,Café caliente,4,2.25,9.0,Efectivo,Frecuente,4,Lluvioso,15.0
+V0465,2026-10-27,Martes,Mañana,7,Cumbayá,En local,Latte,Café caliente,3,3.5,10.5,Tarjeta,Nuevo,4,Lluvioso,15.0
+V0466,2026-10-27,Martes,Mañana,9,La Floresta,En local,Chocolate caliente,Café caliente,2,3.0,6.0,Tarjeta,Frecuente,4,Lluvioso,15.0
+V0467,2026-10-27,Martes,Mañana,10,Cumbayá,Para llevar,Capuchino,Café caliente,1,3.25,3.25,Tarjeta,Nuevo,4,Lluvioso,15.0
+V0468,2026-10-27,Martes,Tarde,12,La Floresta,Para llevar,Americano,Café caliente,2,2.25,4.5,Efectivo,Nuevo,4,Lluvioso,15.0
+V0469,2026-10-27,Martes,Tarde,13,La Floresta,En local,Empanada de verde,Panadería,1,1.75,1.75,Tarjeta,Frecuente,3,Lluvioso,15.0
+V0470,2026-10-27,Martes,Tarde,13,La Floresta,Para llevar,Humita,Panadería,1,2.0,2.0,Tarjeta,Nuevo,3,Lluvioso,15.0
+V0471,2026-10-27,Martes,Tarde,17,La Floresta,Para llevar,Pan de yuca,Panadería,1,1.25,1.25,Tarjeta,Nuevo,5,Lluvioso,15.0
+V0472,2026-10-28,Miércoles,Mañana,8,Centro Histórico,En local,Latte,Café caliente,3,3.5,10.5,Efectivo,Frecuente,4,Nublado,17.5
+V0473,2026-10-28,Miércoles,Mañana,8,Centro Histórico,Delivery,Cheesecake de mora,Postre,1,4.0,4.0,Transferencia,Nuevo,4,Nublado,17.5
+V0474,2026-10-28,Miércoles,Mañana,9,Cumbayá,Para llevar,Croissant,Panadería,1,2.25,2.25,Tarjeta,Frecuente,3,Nublado,17.5
+V0475,2026-10-28,Miércoles,Tarde,16,La Floresta,Para llevar,Latte,Café caliente,1,3.5,3.5,Efectivo,Nuevo,3,Nublado,17.5
+V0476,2026-10-28,Miércoles,Tarde,17,Centro Histórico,Delivery,Té helado,Bebida fría,1,2.5,2.5,Tarjeta,Nuevo,2,Nublado,17.5
+V0477,2026-10-28,Miércoles,Noche,19,La Carolina,En local,Empanada de verde,Panadería,1,1.75,1.75,Transferencia,Frecuente,4,Nublado,17.5
+V0478,2026-10-29,Jueves,Tarde,13,La Carolina,En local,Espresso,Café caliente,3,1.75,5.25,Efectivo,Nuevo,5,Lluvioso,13.5
+V0479,2026-10-29,Jueves,Tarde,13,La Carolina,Delivery,Capuchino,Café caliente,1,3.25,3.25,Tarjeta,Frecuente,3,Lluvioso,13.5
+V0480,2026-10-29,Jueves,Tarde,13,Cumbayá,En local,Capuchino,Café caliente,1,3.25,3.25,Tarjeta,Nuevo,4,Lluvioso,13.5
+V0481,2026-10-29,Jueves,Tarde,17,La Floresta,En local,Espresso,Café caliente,3,1.75,5.25,Tarjeta,Nuevo,5,Lluvioso,13.5
+V0482,2026-10-29,Jueves,Noche,19,Centro Histórico,En local,Pan de yuca,Panadería,2,1.25,2.5,Tarjeta,Frecuente,5,Lluvioso,13.5
+V0483,2026-10-30,Viernes,Mañana,8,La Carolina,Delivery,Humita,Panadería,1,2.0,2.0,Tarjeta,Frecuente,4,Lluvioso,10.5
+V0484,2026-10-30,Viernes,Mañana,9,La Carolina,En local,Espresso,Café caliente,4,1.75,7.0,Tarjeta,Nuevo,3,Lluvioso,10.5
+V0485,2026-10-30,Viernes,Tarde,12,La Carolina,En local,Cheesecake de mora,Postre,2,4.0,8.0,Tarjeta,Frecuente,5,Lluvioso,10.5
+V0486,2026-10-30,Viernes,Tarde,13,La Floresta,Delivery,Croissant,Panadería,3,2.25,6.75,Tarjeta,Frecuente,3,Lluvioso,10.5
+V0487,2026-10-30,Viernes,Tarde,14,La Carolina,En local,Chocolate caliente,Café caliente,4,3.0,12.0,Tarjeta,Frecuente,5,Lluvioso,10.5
+V0488,2026-10-30,Viernes,Tarde,16,La Floresta,Delivery,Humita,Panadería,1,2.0,2.0,Efectivo,Frecuente,2,Lluvioso,10.5
+V0489,2026-10-30,Viernes,Noche,20,Cumbayá,Para llevar,Capuchino,Café caliente,2,3.25,6.5,Efectivo,Nuevo,4,Lluvioso,10.5
+V0490,2026-10-30,Viernes,Noche,20,Centro Histórico,Para llevar,Pan de yuca,Panadería,1,1.25,1.25,Tarjeta,Frecuente,4,Lluvioso,10.5
+V0491,2026-10-31,Sábado,Mañana,7,La Floresta,Para llevar,Latte,Café caliente,2,3.5,7.0,Tarjeta,Nuevo,3,Lluvioso,16.5
+V0492,2026-10-31,Sábado,Mañana,7,Centro Histórico,Para llevar,Espresso,Café caliente,3,1.75,5.25,Transferencia,Frecuente,5,Lluvioso,16.5
+V0493,2026-10-31,Sábado,Mañana,8,Cumbayá,En local,Americano,Café caliente,2,2.25,4.5,Tarjeta,Frecuente,4,Lluvioso,16.5
+V0494,2026-10-31,Sábado,Mañana,9,La Floresta,Delivery,Humita,Panadería,2,2.0,4.0,Efectivo,Frecuente,5,Lluvioso,16.5
+V0495,2026-10-31,Sábado,Mañana,10,La Carolina,Delivery,Capuchino,Café caliente,2,3.25,6.5,Transferencia,Nuevo,4,Lluvioso,16.5
+V0496,2026-10-31,Sábado,Tarde,15,Centro Histórico,En local,Espresso,Café caliente,1,1.75,1.75,Efectivo,Frecuente,3,Lluvioso,16.5
+V0497,2026-10-31,Sábado,Tarde,15,La Carolina,Delivery,Americano,Café caliente,1,2.25,2.25,Efectivo,Frecuente,4,Lluvioso,16.5
+V0498,2026-10-31,Sábado,Tarde,16,La Carolina,En local,Empanada de verde,Panadería,1,1.75,1.75,Efectivo,Frecuente,4,Lluvioso,16.5
+V0499,2026-10-31,Sábado,Noche,19,La Carolina,Para llevar,Cheesecake de mora,Postre,1,4.0,4.0,Efectivo,Nuevo,5,Lluvioso,16.5
+V0500,2026-10-31,Sábado,Noche,20,Cumbayá,Para llevar,Latte,Café caliente,1,3.5,3.5,Efectivo,Frecuente,4,Lluvioso,16.5
